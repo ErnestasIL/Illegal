@@ -47,7 +47,6 @@ h1 {
 .registers {
   background-image: url(../images/Rectangle.png);
   background-size: 100%;
-  /* repeat: no-repeat; */
   color: white;
   position: relative;
   height: 467px;
@@ -113,7 +112,6 @@ h1 {
   margin-left: 5%;
 }
 
-/* footer styles */
 footer {
   color: white;
   background-color: black;
